@@ -61,7 +61,7 @@ growth-revenue-analysis/
 ## 🛠️ Tools Used
 
 - **Power BI Desktop** – Data modeling and dashboard development
-- **Microsoft Excel** – Data source formatting and cleansing
+- **SQL** – cleansing
 
 ---
 
